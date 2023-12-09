@@ -3,3 +3,4 @@ git add test4.txt
 
 > git push origin main
 > git status
+>git pull //new adding
